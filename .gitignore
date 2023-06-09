@@ -1,0 +1,11 @@
+.vs/
+/IrisApp/bin
+/IrisApp/obj
+/IrisApp.Repositories/bin
+/IrisApp.Repositories/obj
+/IrisApp.Services/bin
+/IrisApp.Services/obj
+/IrisApp.Tests/bin
+/IrisApp.Tests/obj
+/IrisAppRepository/bin
+/IrisAppRepository/obj
